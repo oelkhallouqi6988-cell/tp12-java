@@ -1,0 +1,4 @@
+=== Rapport des employes ===
+Nom: Ali, Age: 25, Poste: Engineer
+Nom: Oussama, Age: 30, Poste: Manager
+Fin du rapport.
